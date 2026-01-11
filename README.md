@@ -127,3 +127,6 @@ For sponsorship, partnership or media outreach:
 
 ---
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=90&section=footer"/>
+</div>
